@@ -47,4 +47,4 @@ Deduzindo que está sendo instalado sobre o gnome-terminal versão 3.18 ou super
 temporário e copiar a pasta .vim e o arquivo .vimrc do repositório para a pasta de usuário.
 
 
-**4-** Inatalar [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+**4-** Instalar [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) 
